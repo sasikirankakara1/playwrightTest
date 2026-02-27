@@ -1,0 +1,14 @@
+Title of the Page:  STORE
+Promise {
+  <rejected> TypeError: Cannot read properties of undefined (reading 'getAttribute')
+      at ProductStoreHomepage.getTotalAmount (C:\PlaywrightLearns\pages\ProductStoreHomepage.ts:49:28)
+      at C:\PlaywrightLearns\tests\example.spec.ts:23:22
+      at C:\PlaywrightLearns\node_modules\playwright\lib\worker\workerMain.js:323:9
+      at C:\PlaywrightLearns\node_modules\playwright\lib\worker\testInfo.js:320:11
+      at TimeoutManager.withRunnable (C:\PlaywrightLearns\node_modules\playwright\lib\worker\timeoutManager.js:67:14)
+      at TestInfoImpl._runWithTimeout (C:\PlaywrightLearns\node_modules\playwright\lib\worker\testInfo.js:318:7)
+      at C:\PlaywrightLearns\node_modules\playwright\lib\worker\workerMain.js:321:7
+      at WorkerMain._runTest (C:\PlaywrightLearns\node_modules\playwright\lib\worker\workerMain.js:296:5)
+      at WorkerMain.runTestGroup (C:\PlaywrightLearns\node_modules\playwright\lib\worker\workerMain.js:196:11)
+      at process.<anonymous> (C:\PlaywrightLearns\node_modules\playwright\lib\common\process.js:72:22)
+}

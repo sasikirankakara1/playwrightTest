@@ -1,0 +1,13 @@
+[
+  ' PRODUCT STORE',
+  'Home\n(current)',
+  'Contact',
+  'About us',
+  'Cart',
+  'Log in',
+  'Sign up',
+  'CATEGORIES',
+  'Phones',
+  'Laptops',
+  'Monitors'
+]
