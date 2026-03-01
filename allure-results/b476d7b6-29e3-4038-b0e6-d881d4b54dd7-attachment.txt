@@ -1,0 +1,14 @@
+[
+  'Samsung galaxy s6',
+  'Nokia lumia 1520',
+  'Nexus 6',
+  'Samsung galaxy s7',
+  'Iphone 6 32gb',
+  'Sony xperia z5',
+  'HTC One M9',
+  'Sony vaio i5',
+  'Sony vaio i7\n'
+]
+Clear List: Samsung galaxy s6,Nokia lumia 1520,Nexus 6,Samsung galaxy s7,Iphone 6 32gb,Sony xperia z5,HTC One M9,Sony vaio i5,Sony vaio i7
+Sorted Names: HTC One M9,Iphone 6 32gb,Nexus 6,Nokia lumia 1520,Samsung galaxy s6,Samsung galaxy s7,Sony vaio i5,Sony vaio i7,Sony xperia z5
+Descending Order List: Sony xperia z5,Sony vaio i7,Sony vaio i5,Samsung galaxy s7,Samsung galaxy s6,Nokia lumia 1520,Nexus 6,Iphone 6 32gb,HTC One M9
