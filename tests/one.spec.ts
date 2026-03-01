@@ -1,5 +1,5 @@
 import { test, expect } from "@playwright/test";
-
+//🔥 Price / Calculation Based Questions and 🔥 Advanced Sorting & Comparison Logic (Practice Purpose)
 test.describe("Calculate the total price of all laptops and verify it is greater than 5000.", () => {
   test.beforeEach(async ({ page }) => {
     await page.goto("https://www.demoblaze.com/index.html", {
